@@ -1,0 +1,2 @@
+sudo fasm src/main.asm
+sudo mv src/main.bin bin/ 
