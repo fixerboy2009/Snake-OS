@@ -1,0 +1,3 @@
+@echo off
+echo Loading bootloader with qemu I386...
+qemu-system-i386 bin\main.bin
